@@ -1,0 +1,70 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {font-family:  Arial, sans-serif;
+       font-size: 18px;
+      line-height: 1.5;
+      color: #2E2D2D;
+      background-color: #86F1A6}
+
+.title_1{text-align: center;
+font-weight: bold;
+text-transform: uppercase;
+color: #1223E1}
+
+.title_2{text-align: center;
+font-weight: bold;
+text-transform: uppercase;
+color:#1223E1 }
+
+p {
+	text-indent: 20px;
+}
+.leftimg {float: left;
+margin: 10px 10px 10px 0;}
+
+.rightimg{float: right;
+margin:0 10px 10px 10px;}
+
+.button {
+	width: 400px;
+	height: 25px;
+	margin-top: 40px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	padding-top: 0px;
+	padding-right: 10px;
+	padding-bottom: 30px;
+	padding-left: 10px;
+	text-align: center;
+	vertical-align: middle;
+	border-radius: 0px;
+	text-transform: uppercase;
+	font-weight: bold;
+	letter-spacing: 2px;
+	border: 3px solid #FFFFFF;
+	color: #FFFFFF;
+	transition: all 0.3s linear;
+}
+
+.frog p{
+text-align: center;
+}
+.frog{
+max-width: 350px;
+	float: left;
+	margin: 5px;
+	margin-right: auto;
+	padding: inherit
+}
+
+.frog_2 p{
+text-align: center;
+}
+.frog_2{
+max-width: 350px;
+	float: left;
+	margin: 5px;
+}
+
